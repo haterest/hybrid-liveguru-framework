@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="LiveGuru FrontEnd Test">
+    <parameter name="envName" value="local"/>
+    <listeners>
+        <listener class-name="commons.MethodListener"/>
+    </listeners>
+    <test name="Run On Chrome" preserve-order="true">
+        <parameter name="browserName" value="chrome"/>
+        <classes>
+            <class name="com.liveguru.FrontEnd.FE_01_Register_Login"/>
+        </classes>
+    </test>
+</suite>

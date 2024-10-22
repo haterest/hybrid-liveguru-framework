@@ -5,32 +5,130 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5115cc87-6f2b-4c67-bdce-88d7598e20d9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/commons/BasePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/commons/BaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/commons/GlobalConstant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/commons/GridFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/commons/LocalFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/commons/MethodListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/commons/VerificationFailures.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/factoryBrowser/BrowserFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/factoryBrowser/BrowserList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/factoryBrowser/BrowserNotSupport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/factoryBrowser/BrowserNotSupportedException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/factoryBrowser/ChromeDriverManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/factoryBrowser/FirefoxDriverManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/factoryBrowser/SafariDriverManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pageObjects/FrontEnd/FEAccountDashboardPageObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pageObjects/FrontEnd/FEAccountInforPageObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pageObjects/FrontEnd/FEHomePageObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pageObjects/FrontEnd/FELoginPageObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pageObjects/FrontEnd/FEMyAccountSideBarPageObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pageObjects/FrontEnd/FERegisterPageObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pageObjects/FrontEnd/PageGeneratorManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pageUIs/FrontEnd/FEAccountDashboardPageUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pageUIs/FrontEnd/FEAccountInforPageUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pageUIs/FrontEnd/FEHomePageUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pageUIs/FrontEnd/FELoginPageUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pageUIs/FrontEnd/FEMyAccountSideBarPageUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pageUIs/FrontEnd/FERegisterPageUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/reportConfig/ExtentManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/reportConfig/ExtentTestListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/reportConfig/ExtentTestManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/utilities/DataHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/liveguru/FrontEnd/FE_01_Register_Login.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/liveguru/FrontEnd/TEST_RUN.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/RunLiveGuruFETest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/RunLiveGuruFETest.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;haterest&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/haterest/hybrid-liveguru-framework.git&quot;,
+    &quot;accountId&quot;: &quot;2f8be42e-15c8-4eae-a8b6-91d0b5e796f2&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2mdzbWq39cKDJhjx9hE0lY5FTb9" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.TEST_RUN (1).executor": "Run",
+    "Application.TEST_RUN.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "settings.editor.selected.configurable": "preferences.keymap"
   }
 }]]></component>
+  <component name="RunManager" selected="Application.TEST_RUN">
+    <configuration name="TEST_RUN (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.liveguru.FrontEnd.TEST_RUN" />
+      <module name="hybrid-liveguru-framework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.liveguru.FrontEnd.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TEST_RUN" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.liveguru.FrontEnd.TEST_RUN" />
+      <module name="hybrid-liveguru-framework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.liveguru.FrontEnd.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TEST_RUN" />
+        <item itemvalue="Application.TEST_RUN (1)" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
